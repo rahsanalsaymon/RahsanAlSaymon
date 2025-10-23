@@ -3,7 +3,9 @@
 🔭 I’m a competitive programmer
 
 🌱 I’m currently learning algorithms
+
 🤔 I’m looking for help with ML, AI
+
 😄 Pronouns: He/HIM
 <!--
 **rahsanalsaymon/RahsanAlSaymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
